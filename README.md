@@ -42,6 +42,10 @@ Contributions are welcome! If you'd like to improve the project, feel free to fo
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
+## PRO TIP
+
+To generate a gradient without losing your mind, see [this link](https://cssgradient.io/)
+
 ---
 
 ### 🖼️ Project Screenshot
